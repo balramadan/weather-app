@@ -188,18 +188,18 @@ main {
 }
 
 .weather-temp .temp {
-  font-size: 102px;
+  font-size: 70px;
   font-weight: 900;
   text-shadow: 3px 6px rgba(0, 0, 0, 0.25);
 }
 
 .weather-temp .weather {
-  font-size: 48px;
+  font-size: 36px;
 }
 
 .feelslike {
   color: #fff;
-  font-size: 24px;
+  font-size: 18px;
   background-color: rgba(255, 255, 255, 0.25);
   padding: 10px 25px;
   margin-bottom: 30px;
